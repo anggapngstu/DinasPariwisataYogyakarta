@@ -1,0 +1,20 @@
+{
+    "name": "Dinas Pariwisata Yogyakarta",
+    "short_name": "My PWA",
+    "description": "Aplikasi PWA pertama saya",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#44bcd8",
+    "theme_color": "#44bcd8",
+    "icons": [{
+            "src": "logo-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "logo-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
